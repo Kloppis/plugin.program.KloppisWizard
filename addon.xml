@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.KloppisWizard" name="Kloppis Wizard" version="0.5.0" provider-name="Arno Malie">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Kloppis Wizard</summary>
+    <description lang="en">Kodi-Build by Arno Malie</description>
+	<website>http://kodi.die-kloppis.de</website>
+    <platform>all</platform>
+  </extension>
+</addon>
