@@ -8,7 +8,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Kloppis Wizard</summary>
-    <description lang="en">Kodi-Build by Arno Malie</description>
+    <description lang="en">Kodi-Build by Die Kloppis</description>
 	<website>http://kodi.die-kloppis.de</website>
     <platform>all</platform>
   </extension>
